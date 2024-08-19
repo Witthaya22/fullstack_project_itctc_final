@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.example
+.env.local
+.env.staging
+
+
+/package-lock.json
+node_modules
+dist
+*.js
+
+generated/prisma-client-js/
+
+# Logs
+logs/
+*.log
